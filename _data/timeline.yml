@@ -1,0 +1,35 @@
+- title: ePropulsion - ADAS Team, Hong Kong SAR
+  from: Aug. 2022 
+  to: Present
+  description: 
+              Robotics Engineer<br>
+              * Skills - ROS2, C++, Python, Sensor fusion, Motion control, System integration <br>
+              • Developed ADAS features for in-house powertrain products<br>
+              • Developed the perception system using Extened Kalman Filter fusing IMU and GPS data<br>
+              • Developed a regression based velocity prediction algorithm from powertrain feedbacks
+
+- title: CityU Underwater Robotics Team, Hong Kong SAR
+  from: Sep. 2018
+  to: Aug. 2022 
+  description: 
+              Electronic Lead -- 2021-2022<br>
+              Team Member -- 2018-2021<br>
+              * Skills - ROS, C, Python, Embedded system, Circuit design <br>
+              • Developed ROV and AUV for competitions<br>
+              • Researched and implemented a PID-based stabilization system for ROV control<br>
+              • Researched on the optimization of underwater image processing<br>
+              • Led an electronics subteam of 6 members, overseeing the design of the electronic systems
+
+- title: Suga International Holdings Limited, Hong Kong SAR
+  from: Jul. 2021
+  to: Jun. 2022
+  description: Electronics Engineer Intern<br>
+              * Skills - C, DSP, Embedded system, Analog circuit design<br>
+              • Developed a multichannel audio mixing system
+
+- title: Aerosim(HK), Hong Kong SAR
+  from: Jul. 2021
+  to: Jun. 2022
+  description: Associate Engineer  Intern<br>
+              * Skills - C, Embedded system, Circuit design <br>
+              • Developed custom hardware and firmware for flight simulators
