@@ -1,0 +1,25 @@
+<div class="card-columns m-3 mt-5">
+
+  <!-- Local Projects -->
+  {% for robot in site.robots %}
+
+    {%- assign robot_type  = "local" -%}
+    {%- assign robot_id    = robot.name | slugify -%}
+    {%- assign robot_img   = robot.image -%}
+    {%- assign robot_name  = robot.name -%}
+    {%- assign robot_desc  = robot.description -%}
+    {%- assign robot_tools = robot.tools -%}
+
+    {%- if robot.external_url -%}
+      {%- assign robot_url = robot.external_url -%}
+      {%- assign external    = true -%}
+    {%- else -%}
+      {%- assign robot_url = robot.url | relative_url -%}
+      {%- assign external    = false -%}
+    {%- endif -%}
+
+    {% include robots/robot-card.html %}
+
+  {% endfor %}
+
+</div>

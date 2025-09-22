@@ -11,3 +11,9 @@ Micro ROV was designed to complete [drian pipe inspection](https://youtu.be/74Nf
 
 <img src="/images/rov/micro_rov/PCB.JPG" width="400">
 <img src="/images/rov/micro_rov/pcb_front.JPG" width="200"><img src="/images/rov/micro_rov/pcb_back.JPG" width="200">
+
+__Design Documents__\
+<img src="/images/rov/micro_rov/control_sch.png" width="800">
+<img src="/images/rov/micro_rov/cam_sch.png" width="800">
+<img src="/images/rov/micro_rov/control_pcb.png" width="400">
+<img src="/images/rov/micro_rov/cam_pcb.png" width="400">

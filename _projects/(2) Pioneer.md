@@ -15,6 +15,8 @@ Pioneer is designed to perform autonomous tasks underwater. It is equipped with 
 Software:\
 Pioneer uses a ROS system to communicate across different nodes, enabling more efficient parallel development among teammates and increasing system robustness. A PID-based flight controller with orientation estimation was developed and fine tuned for Pioneer to perform precise maneuvers. We also developed an OpenCV-based object detection algorithm to recognize competition props in underwater environments, allowing the vehicle to perform autonomous tasks.
 
+<iframe src="https://drive.google.com/file/d/1V6pTL5m1c8p9_BjOsE2Uyvdml2CMGa1m/preview" width="540" height="540" allow="autoplay"></iframe>
+
 Competitions:\
 <a href="https://sauvc.org/2019/">IEEE SAUVC 2019</a>, Singapore\
 <a href="https://sauvc.org/2022/">IEEE SAUVC 2022</a>, Singapore

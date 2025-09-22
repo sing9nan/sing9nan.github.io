@@ -1,0 +1,21 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="{{ robot_url }}" class="robot card text-themed" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
+    {%- if robot_img -%}
+    <img id="{{ robot_id }}-img" class="card-img-top" src="{{ robot_img }}" alt="{{ robot_name }}" />
+    {%- endif -%}
+    <div class="card-body">
+      <h5 id="{{ robot_id }}-name" class="card-title">
+          {%- if robot_type == "remote" -%}
+          <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
+          {%- endif -%}
+        {{ robot_name }}
+      </h5>
+      <p id="{{ robot_id }}-desc" class="card-text">{{ robot_desc }}</p>
+      <p id="{{ robot_id }}-tools" class="card-text">
+        {%- for tool in robot_tools -%}
+        <span class="badge badge-pill text-primary border border-primary ml-1">{{ tool }}</span>
+        {%- endfor -%}
+      </p>
+    </div>
+  </a>
+</div>

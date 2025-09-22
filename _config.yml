@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Wai Sing Ngan
 description         : >-
-                      Robotics Engineer working on ADAS software for boats.
+                      A Robotics Engineer working on ADAS software for boats.
                       BEng in Computer and Data Engineering, City University of Hong Kong.
                       Passionate in robotics, research interests are Computer Vision, SLAM, and Autonomous Driving.
 baseurl             :           # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -57,6 +57,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  robots:
+    output: true
+    permalink: /robots/:name
+    
 
 
 ### Disqus ###
@@ -76,6 +80,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "robots"
     values:
       layout: "page"
   - scope:

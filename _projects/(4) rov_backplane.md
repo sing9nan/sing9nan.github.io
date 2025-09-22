@@ -14,4 +14,13 @@ The backplane board provides various communication buses (I2C, UART, SPI) for in
 
 __Backplane system Version 2.0__\
 <img src="/images/rov/backplane/mb2.JPG" width="500">\
-The 2.0 design integrated multiple of communcation protocol into a single CAN bus. It also supports a wider power input range (16V-48V), enabling an easier transition from tethered power to battery power.
+The 2.0 design reduced the length of the PCB and rerouted the I/O plugs to the back, freeing up spaces in front of the electronic compartment to fit in a larger single board computer and stereo cameras. It also integrated multiple of communcation protocol into a single CAN bus and supported a wider power input range (16V-48V), which enable an easier transition from tethered power to battery power.
+
+__Design Documents__\
+<img src="/images/rov/backplane/back_board_sch1.png" width="800">
+<img src="/images/rov/backplane/back_board_sch2.png" width="800">
+<img src="/images/rov/backplane/mb2_sch1.png" width="800">
+<img src="/images/rov/backplane/mb2_sch2.png" width="800">
+<img src="/images/rov/backplane/mb2_sch3.png" width="800">
+<img src="/images/rov/backplane/back_board_pcb.png" width="800">
+<img src="/images/rov/backplane/mb2_pcb.png" width="800">
