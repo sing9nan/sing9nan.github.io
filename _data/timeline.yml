@@ -5,7 +5,7 @@
               Robotics Engineer<br>
               * Skills - ROS2, C++, Python, Sensor fusion, Motion control, System integration <br>
               • Developed ADAS features for in-house powertrain products<br>
-              • Developed the perception system using Extended Kalman Filter fusing IMU and GPS data<br>
+              • Developed the localization system using Extended Kalman Filter fusing IMU and GPS data<br>
               • Developed a regression-based velocity prediction algorithm from powertrain feedback
 
 - title: CityU Underwater Robotics Team, Hong Kong SAR
