@@ -2,7 +2,7 @@
 name: Flight Controller for Underwater Vehicles
 tools: [Sensor Fusion, PID Control, Gazebo]
 image: /images/mypixhawk/mypixhawk_pcb.png
-description: A system to assist the pilot in controlling an ROV
+description: A flight control system that assists underwater vehicle maneuvering using Kalman Filter for state estimation and PID control. 
 ---
 
 # Flight Controller for Underwater Vehicles

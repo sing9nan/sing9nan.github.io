@@ -2,7 +2,7 @@
 name: Open Underwater Research System
 tools: [PID Control, Sensor Fusion, Embedded System]
 image: /images/robots/sthing.jpg
-description: An actuated autonomous underwater device for water column exploration
+description: An autonomous underwater device for water column exploration and seawater quality monitoring, with point-to-point navigation capability.
 ---
 
 # Open Underwater Research System

@@ -1,35 +1,33 @@
-- title: ePropulsion - ADAS Team, Hong Kong SAR
+- title: ePropulsion - ADAS Team
   from: Aug. 2022 
-  to: Present
+  to: Present | Hong Kong SAR
   description: 
-              Robotics Engineer<br>
+              <i>Robotics Engineer</i><br>
               * Skills - ROS2, C++, Python, Sensor fusion, Motion control, System integration <br>
-              • Developed ADAS features for in-house powertrain products<br>
-              • Developed the localization system using Extended Kalman Filter fusing IMU and GPS data<br>
-              • Developed a regression-based velocity prediction algorithm from powertrain feedback
-
-- title: CityU Underwater Robotics Team, Hong Kong SAR
+              • Developed ADAS features that integrate to in-house powertrain products, focusing on localization system development and system integration. <br>
+              • Delivered ADAS L1 System to 30+ commercial vessels and customized projects across China, Netherlands, United States, and other regions.
+              
+- title: CityU Underwater Robotics Team 
   from: Sep. 2018
-  to: Aug. 2022 
+  to: Aug. 2022 | Hong Kong SAR
   description: 
-              Electronic Lead -- 2020-2022<br>
-              Team Member -- 2018-2020<br>
+              <i>Electronic Lead -- 2020-2022<br>
+              Team Member -- 2018-2020<br></i>
               * Skills - ROS, C, Python, Embedded system, Circuit design <br>
-              • Developed ROV and AUV for competitions<br>
-              • Researched and implemented a PID-based stabilization system to assist ROV control<br>
-              • Implemented underwater image processing and object detection algorithm for the AUV<br>
-              • Led a subteam of six electronics members, overseeing the design of the electronic systems and integrating the robot system
+              • Developed ROV and AUV for competitions, focusing on underwater state estimation and embedded system design.
+              Competed and reached the finals multiple times  in MATE ROV and SAUVC.<br>
+              • Led a subteam of six electronics members, overseeing the design of the electronic systems and integrating the robot system <br>
 
-- title: Suga International Holdings Limited, Hong Kong SAR
+- title: Suga International Holdings Limited
   from: Jul. 2021
-  to: Jun. 2022
-  description: Electronics Engineer Intern<br>
+  to: Jun. 2022 | Hong Kong SAR
+  description: <i>Electronics Engineer Intern<br></i>
               * Skills - C, DSP, Embedded system, Analog circuit design<br>
-              • Developed the hardware and DSP firmware for a multichannel audio mixing system
+              • Researched and developed the prototype hardware and DSP firmware for a multichannel audio mixing system.
 
-- title: Aerosim(HK), Hong Kong SAR
+- title: Aerosim(HK)
   from: Jul. 2021
-  to: Jun. 2022
-  description: Associate Engineer  Intern<br>
+  to: Jun. 2022 | Hong Kong SAR
+  description: <i>Associate Engineer  Intern<br></i>
               * Skills - C, Embedded system, Circuit design <br>
-              • Developed custom hardware and firmware for flight simulators
+              • Developed custom hardware and firmware for flight simulators, reducing manufacturing cost per unit by 20%.

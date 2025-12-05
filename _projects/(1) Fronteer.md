@@ -2,7 +2,7 @@
 name: Fronteer
 tools: [Robotics, Embedded System, Mechanical Design]
 image: /images/robots/fronteer.jpg
-description: A Remotely Operated underwater Vehicle (ROV) to explore the ocean and complete tasks
+description: A Remotely Operated underwater Vehicle (ROV) for deep-sea exploration and mission tasks. Competed in MATE ROV Competition.
 ---
 
 # Fronteer
@@ -23,3 +23,5 @@ Fronteer features a detachable frame, and depending on the task, different manip
 __Competitions:__\
 <a href="https://materovcompetition.org/2019-competition-archive">2019 MATE ROV International Competition</a>, Kingsport, Tennessee, USA\
 <a href="https://materovcompetition.org/2022-competition-archive">2022 MATE ROV International Competition</a>, Long Beach, California, USA
+
+<object data="/mate_2019_report.pdf" width="100%" height="1000" type='application/pdf'></object>

@@ -2,7 +2,7 @@
 name: Pioneer
 tools: [Robotics, Computer Vision, ROS]
 image: /images/robots/pioneer.jpeg
-description: An Autonomous Underwater Vehicle (AUV)
+description: An autonomous underwater vehicle (AUV) with camera and IMU-based navigation. Participated and completed tasks autonomously in IEEE SAUVC
 ---
 
 # Pioneer

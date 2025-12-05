@@ -2,7 +2,7 @@
 name: Micro ROV
 tools: [STM32, Embedded System, Circuit Design]
 image: /images/rov/micro_rov/micro_rov.png
-description: A micro underwater vehicle smaller than 20x15x10 cm
+description: A micro underwater vehicle smaller than 20x15x10 cm for underwater pipeline inspection
 ---
 
 # Micro ROV
